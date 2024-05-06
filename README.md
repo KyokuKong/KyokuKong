@@ -14,9 +14,9 @@
 
 |Stages|Languages|
 |---|---|
-|学会了！|Python, JavaScript, PHP|
-|正在学习|Java, Kotlin, Solidity|
-|以后想学|Rust, C#|
+|学会了！|Python, JavaScript, PHP, Kotlin|
+|正在学习|Java, Rust|
+|以后想学|C#, c++|
 
 ### 数据看板🕶️
 
