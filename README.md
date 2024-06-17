@@ -8,7 +8,7 @@
 
 中文 / English OK！
 
-[个人博客](https://blog.kyoku.top) | [Bilibili](https://space.bilibili.com/1220441567)
+[个人博客](https://vercel.kyoku.top) | [Bilibili](https://space.bilibili.com/1220441567)
 
 ### 编程技能⌨
 
