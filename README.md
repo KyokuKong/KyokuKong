@@ -12,11 +12,13 @@
 
 ### 编程技能⌨
 
-|Stages|Languages|
-|---|---|
-|学会了！|Python, JavaScript, PHP, Kotlin, Java|
-|正在学习|go, C#|
-|以后想学|c++, Scala, Rust|
+Python ✅ FastAPI/Quart后端服务端开发、数据处理、网页爬虫、CLI应用、Tkinter桌面端应用、Sqlalchemy数据库操作
+Kotlin ✅ Ktor后端服务端开发、数据处理
+PHP ✅ 页面编写、数据处理、后端开发
+Go ✅ gin后端服务端开发、CLI应用
+Javascript/Typescript ♿ 学习中
+C# ♿ 学习中
+Rust 🥺 很想学，以后学
 
 ### 数据看板🕶️
 
