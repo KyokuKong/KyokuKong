@@ -12,10 +12,10 @@
 
 ### 编程技能⌨
 
-- Python ✅ FastAPI/Quart后端服务端开发、数据处理、网页爬虫、CLI应用、Tkinter桌面端应用、Sqlalchemy数据库操作
-- Kotlin ✅ Ktor后端服务端开发、数据处理
-- PHP ✅ 页面编写、数据处理、后端开发
-- Go ✅ gin后端服务端开发、CLI应用
+- Python ✅ 
+- Kotlin ✅ 
+- PHP ✅ 
+- Go ✅ 
 - Javascript/Typescript ♿ 学习中
 - C# ♿ 学习中
 - Rust 🥺 很想学，以后学
